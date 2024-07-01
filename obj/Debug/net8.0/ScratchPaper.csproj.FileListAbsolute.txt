@@ -1,0 +1,14 @@
+c:\Users\lyran\Downloads\ScratchPaper\bin\Debug\net8.0\ScratchPaper.exe
+c:\Users\lyran\Downloads\ScratchPaper\bin\Debug\net8.0\ScratchPaper.deps.json
+c:\Users\lyran\Downloads\ScratchPaper\bin\Debug\net8.0\ScratchPaper.runtimeconfig.json
+c:\Users\lyran\Downloads\ScratchPaper\bin\Debug\net8.0\ScratchPaper.dll
+c:\Users\lyran\Downloads\ScratchPaper\bin\Debug\net8.0\ScratchPaper.pdb
+c:\Users\lyran\Downloads\ScratchPaper\obj\Debug\net8.0\ScratchPaper.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\lyran\Downloads\ScratchPaper\obj\Debug\net8.0\ScratchPaper.AssemblyInfoInputs.cache
+c:\Users\lyran\Downloads\ScratchPaper\obj\Debug\net8.0\ScratchPaper.AssemblyInfo.cs
+c:\Users\lyran\Downloads\ScratchPaper\obj\Debug\net8.0\ScratchPaper.csproj.CoreCompileInputs.cache
+c:\Users\lyran\Downloads\ScratchPaper\obj\Debug\net8.0\ScratchPaper.dll
+c:\Users\lyran\Downloads\ScratchPaper\obj\Debug\net8.0\refint\ScratchPaper.dll
+c:\Users\lyran\Downloads\ScratchPaper\obj\Debug\net8.0\ScratchPaper.pdb
+c:\Users\lyran\Downloads\ScratchPaper\obj\Debug\net8.0\ScratchPaper.genruntimeconfig.cache
+c:\Users\lyran\Downloads\ScratchPaper\obj\Debug\net8.0\ref\ScratchPaper.dll
